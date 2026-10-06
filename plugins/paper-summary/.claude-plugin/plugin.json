@@ -1,0 +1,11 @@
+{
+  "name": "paper-summary",
+  "version": "0.1.0",
+  "description": "Summarize research papers with an input-to-output pipeline flowchart, find up to two similar papers, compare papers along suggested or chosen perspectives, and save everything as clean block-style pages in your own Notion database.",
+  "author": {
+    "name": "skdud727"
+  },
+  "repository": "https://github.com/skdud727/paper-summary-plugin",
+  "license": "MIT",
+  "keywords": ["research", "papers", "summary", "notion", "literature-review", "comparison"]
+}

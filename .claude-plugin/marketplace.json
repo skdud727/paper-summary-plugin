@@ -1,0 +1,14 @@
+{
+  "name": "paper-summary-marketplace",
+  "description": "Research paper summary and comparison plugins that write to Notion",
+  "owner": {
+    "name": "skdud727"
+  },
+  "plugins": [
+    {
+      "name": "paper-summary",
+      "source": "./plugins/paper-summary",
+      "description": "Summarize and compare research papers into your Notion database"
+    }
+  ]
+}
